@@ -16,7 +16,7 @@ This project simulates how a city planning team or energy company might use data
 - Recommend optimal locations for **new station placement** based on accessibility, proximity, and density factors  
 
 ## Data Source
-- [NYC EV Charging Stations (Open Data)](https://data.cityofnewyork.us/Transportation/Electric-Vehicle-Charging-Stations/x4bi-4cvv)
+- [NYC EV Charging Stations (Open Data)](https://data.cityofnewyork.us/City-Government/NYC-EV-Fleet-Station-Network/fc53-9hrv/about_data)
 - NYC Population by Neighborhood  
 - NYC Zoning or Business Locations
 
