@@ -1,0 +1,6 @@
+.venv/ linguist-vendored
+__pycache__/ linguist-vendored
+.ipynb_checkpoints/ linguist-vendored
+*.c linguist-generated
+*.cpp linguist-generated
+*.tcl linguist-generated
