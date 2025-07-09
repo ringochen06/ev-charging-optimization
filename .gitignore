@@ -1,0 +1,11 @@
+.venv/
+.conda/
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+.vscode/
+
+.DS_Store
+
+*.nbconvert.ipynb
