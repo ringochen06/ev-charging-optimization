@@ -1,1 +1,11 @@
+.venv/
+.conda/
+env/
+ev-charging-env/
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
 *.csv
+
+
+.DS_Store
