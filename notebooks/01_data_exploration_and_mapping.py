@@ -2,8 +2,7 @@ import pandas as pd
 import folium
 
 # Load the dataset
-df = pd.read_csv("NYC_EV_Fleet_Station_Network_20250709.csv")
-df = pd.read_csv("/Users/chenruiyang/Desktop/CSSTH/ev-charging-optimization/data/NYC_EV_Fleet_Station_Network_20250709.csv")
+df = pd.read_csv("./data/NYC_EV_Fleet_Station_Network_20250709.csv")
 df.head()
 
 # Quick check
